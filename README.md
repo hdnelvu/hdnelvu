@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **python, javascript and c++ (and php for school)**
+- 🌱 I’m currently learning **java**
 
 - 👨‍💻 All of my projects are available at [github.com/hdnelvu](github.com/hdnelvu)
 

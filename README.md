@@ -1,5 +1,4 @@
 <h1 align="center">Hi 🙈, I'm nelvu</h1>
-<h3 align="center">Still learning programming...</h3>
 
 - 🔭 I’m currently working on **nothing**
 

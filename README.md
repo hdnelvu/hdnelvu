@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/hdnelvu](github.com/hdnelvu)
 
-- 📫 How to reach me **notnelvu@gmail.com**
+- 📫 How to reach me **hdnelvu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
